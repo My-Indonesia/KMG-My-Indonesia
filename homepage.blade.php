@@ -42,7 +42,7 @@
     </header>
 
   </article>
-  
+  <!-- Image kurang responsiv -->
   <article style="background-color: black; border: 20px solid gray; border-right: 90px solid gray;
   border-left: 90px solid gray;">
   <div class="container">
@@ -57,6 +57,9 @@
     </div>
   </div>
   </article>
+  
+  
+  <!-- ARTIKEL HARIAN -->
   
   <article style="margin-top: 50px;">
   <div style="justify-content: center; text-align: center;">
